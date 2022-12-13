@@ -1,10 +1,10 @@
-#CS 3380 Database Appliation and Informational Systems Final Project
+# CS 3380 Database Appliation and Informational Systems Final Project
 
 About
 
 I have created a application which utilizes a database for a store. With this applications you can do various different functions which can retrieve data, add data, and show data, from the database.
 
-#Prereqs
+# Prereqs
 
 Install termcolor with pip3 install --upgrade termcolor
 
@@ -21,7 +21,7 @@ key = {
     'password': 'enter-password-here'
 }
 
-#HOW TO INIT THE SERVER ON MAC
+# HOW TO INIT THE SERVER ON MAC
 start server
 System Prefrences->MySQL->Turn on Server
 connect to DB using mysql -uroot -p
